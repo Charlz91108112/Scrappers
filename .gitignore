@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+Arabian_talks_scraper_req/company_details_scraper.py
+Arabian_talks_scraper_req/company_scrape.py
+Arabian_talks_scraper_req/save_csv.py
+.history/
